@@ -1,13 +1,13 @@
 {
+  "foo.jpeg": {
+    "file": "assets/foo-DX16Disd.jpeg",
+    "src": "foo.jpeg"
+  },
   "resources/css/app.css": {
     "file": "assets/app-l0sNRNKZ.js",
     "name": "app",
     "src": "resources/css/app.css",
     "isEntry": true
-  },
-  "resources/images/foo.jpg": {
-    "file": "assets/foo-DX16Disd.jpg",
-    "src": "resources/images/foo.jpg"
   },
   "resources/js/app.js": {
     "file": "assets/app-C1-XIpUa.js",
